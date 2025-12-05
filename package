@@ -1,0 +1,537 @@
+<div id="1764928646240d" data-cat="1" class="is-section is-section-100 is-light-text is-box is-bg-dark">
+	<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-overlay">
+		
+		
+		<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-overlay-content"></div>
+	</div>
+	<div class="is-boxes">
+		<div class="is-box-centered is-opacity-95">
+			<div class="is-container container" style="max-width: 1763px;">
+				<div class="row clearfix">
+					<div class="column full" spellcheck="false"><div id="1764921976083d" data-cat="1" class="is-section is-section-100 is-light-text is-box is-bg-dark">
+	<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-overlay">
+		
+		
+		<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-overlay-content"></div>
+	</div>
+	<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-boxes">
+		<div data-coursid="69328e01f32f9450e82123f3" class="courselandingpage is-box-centered is-opacity-95">
+			<div class="is-container container" style="max-width: 1854px;">
+				<div class="row clearfix">
+					<div class="column full" spellcheck="false"><div class="cdh-landing-wrapper">
+<style>
+/* ============================================
+   DARK + ORANGE THEME - Graphy Compatible
+   ============================================ */
+
+.cdh-landing-wrapper {
+    font-family: 'DM Sans', sans-serif !important;
+    background: #0a0a0f !important;
+    color: #ffffff !important;
+    line-height: 1.6 !important;
+    visibility: visible !important;
+    display: block !important;
+}
+
+.cdh-landing-wrapper * {
+    box-sizing: border-box !important;
+    visibility: visible !important;
+}
+
+/* HERO */
+.cdh-hero {
+    min-height: 90vh !important;
+    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #0d0d15 100%) !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    padding: 60px 20px !important;
+    text-align: center !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+.cdh-hero::before {
+    content: '' !important;
+    position: absolute !important;
+    top: -50% !important;
+    right: -30% !important;
+    width: 80% !important;
+    height: 150% !important;
+    background: radial-gradient(circle, rgba(255, 107, 53, 0.15) 0%, transparent 60%) !important;
+    pointer-events: none !important;
+}
+
+.cdh-hero::after {
+    content: '' !important;
+    position: absolute !important;
+    bottom: -30% !important;
+    left: -20% !important;
+    width: 60% !important;
+    height: 100% !important;
+    background: radial-gradient(circle, rgba(255, 159, 28, 0.1) 0%, transparent 60%) !important;
+    pointer-events: none !important;
+}
+
+.cdh-hero-content {
+    max-width: 900px !important;
+    margin: 0 auto !important;
+    position: relative !important;
+    z-index: 10 !important;
+}
+
+.cdh-hero h1 {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: clamp(2.2rem, 5vw, 3.5rem) !important;
+    font-weight: 800 !important;
+    line-height: 1.2 !important;
+    margin-bottom: 20px !important;
+    color: #ffffff !important;
+}
+
+.cdh-hero h1 span {
+    background: linear-gradient(135deg, #ff6b35 0%, #ff9f1c 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+}
+
+.cdh-hero p {
+    font-size: 1.1rem !important;
+    color: rgba(255,255,255,0.7) !important;
+    margin-bottom: 30px !important;
+    max-width: 700px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+/* INFO GRID */
+.cdh-info-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)) !important;
+    gap: 16px !important;
+    margin-bottom: 30px !important;
+    max-width: 700px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.cdh-info-card {
+    background: rgba(255, 107, 53, 0.08) !important;
+    border-radius: 16px !important;
+    padding: 20px 16px !important;
+    text-align: center !important;
+    border: 1px solid rgba(255, 107, 53, 0.2) !important;
+    backdrop-filter: blur(10px) !important;
+}
+
+.cdh-info-card .label {
+    font-size: 12px !important;
+    color: rgba(255,255,255,0.6) !important;
+    text-transform: uppercase !important;
+    letter-spacing: 0.5px !important;
+    margin-bottom: 4px !important;
+}
+
+.cdh-info-card .value {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    color: #ff6b35 !important;
+}
+
+/* CTA BUTTON */
+.cdh-cta-btn {
+    display: inline-block !important;
+    background: linear-gradient(135deg, #ff6b35 0%, #ff9f1c 100%) !important;
+    color: #0a0a0f !important;
+    padding: 18px 48px !important;
+    border-radius: 60px !important;
+    font-size: 1.125rem !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    box-shadow: 0 8px 30px rgba(255, 107, 53, 0.4) !important;
+}
+
+/* FEATURES SECTION */
+.cdh-features {
+    padding: 80px 20px !important;
+    background: #0d0d15 !important;
+}
+
+.cdh-section-header {
+    text-align: center !important;
+    margin-bottom: 50px !important;
+}
+
+.cdh-section-tag {
+    display: inline-block !important;
+    background: rgba(255, 107, 53, 0.15) !important;
+    color: #ff6b35 !important;
+    padding: 8px 20px !important;
+    border-radius: 30px !important;
+    font-size: 14px !important;
+    font-weight: 600 !important;
+    margin-bottom: 16px !important;
+    border: 1px solid rgba(255, 107, 53, 0.3) !important;
+}
+
+.cdh-section-title {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: clamp(1.8rem, 4vw, 2.5rem) !important;
+    font-weight: 800 !important;
+    color: #ffffff !important;
+    margin-bottom: 12px !important;
+}
+
+.cdh-section-subtitle {
+    font-size: 1rem !important;
+    color: rgba(255,255,255,0.6) !important;
+}
+
+.cdh-features-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)) !important;
+    gap: 24px !important;
+    max-width: 1100px !important;
+    margin: 0 auto !important;
+}
+
+.cdh-feature-card {
+    background: linear-gradient(135deg, rgba(255, 107, 53, 0.05) 0%, rgba(255, 159, 28, 0.02) 100%) !important;
+    border-radius: 20px !important;
+    padding: 28px !important;
+    border: 1px solid rgba(255, 107, 53, 0.15) !important;
+    transition: all 0.3s ease !important;
+}
+
+.cdh-feature-card:hover {
+    border-color: rgba(255, 107, 53, 0.4) !important;
+    transform: translateY(-5px) !important;
+}
+
+.cdh-feature-icon {
+    width: 56px !important;
+    height: 56px !important;
+    background: linear-gradient(135deg, #ff6b35 0%, #ff9f1c 100%) !important;
+    border-radius: 14px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    margin-bottom: 16px !important;
+    font-size: 24px !important;
+}
+
+.cdh-feature-card h3 {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 1.2rem !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin-bottom: 10px !important;
+}
+
+.cdh-feature-card p {
+    font-size: 0.95rem !important;
+    color: rgba(255,255,255,0.6) !important;
+    line-height: 1.5 !important;
+}
+
+/* CURRICULUM SECTION */
+.cdh-curriculum {
+    padding: 80px 20px !important;
+    background: linear-gradient(135deg, #0a0a0f 0%, #1a1a2e 50%, #0d0d15 100%) !important;
+}
+
+.cdh-curriculum-grid {
+    display: grid !important;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)) !important;
+    gap: 16px !important;
+    max-width: 1100px !important;
+    margin: 0 auto !important;
+}
+
+.cdh-curriculum-card {
+    background: rgba(255, 255, 255, 0.03) !important;
+    border-radius: 16px !important;
+    padding: 20px !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 16px !important;
+    border: 1px solid rgba(255, 107, 53, 0.12) !important;
+    transition: all 0.3s ease !important;
+}
+
+.cdh-curriculum-card:hover {
+    background: rgba(255, 107, 53, 0.08) !important;
+    border-color: rgba(255, 107, 53, 0.3) !important;
+}
+
+.cdh-curriculum-num {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 1.5rem !important;
+    font-weight: 800 !important;
+    background: linear-gradient(135deg, #ff6b35 0%, #ff9f1c 100%) !important;
+    -webkit-background-clip: text !important;
+    -webkit-text-fill-color: transparent !important;
+    background-clip: text !important;
+    min-width: 40px !important;
+}
+
+.cdh-curriculum-card h4 {
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+    color: #ffffff !important;
+    margin-bottom: 4px !important;
+}
+
+.cdh-curriculum-card p {
+    font-size: 0.85rem !important;
+    color: rgba(255,255,255,0.5) !important;
+}
+
+/* FINAL CTA */
+.cdh-final-cta {
+    padding: 80px 20px !important;
+    background: linear-gradient(135deg, #ff6b35 0%, #d63a00 100%) !important;
+    text-align: center !important;
+    position: relative !important;
+    overflow: hidden !important;
+}
+
+.cdh-final-cta::before {
+    content: '' !important;
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E") !important;
+    pointer-events: none !important;
+}
+
+.cdh-final-cta h2 {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: clamp(1.8rem, 4vw, 2.5rem) !important;
+    font-weight: 800 !important;
+    color: white !important;
+    margin-bottom: 12px !important;
+    position: relative !important;
+}
+
+.cdh-final-cta p {
+    font-size: 1rem !important;
+    color: rgba(255,255,255,0.9) !important;
+    margin-bottom: 30px !important;
+    position: relative !important;
+}
+
+.cdh-cta-info-row {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    gap: 16px !important;
+    margin-bottom: 30px !important;
+    position: relative !important;
+}
+
+.cdh-cta-info-item {
+    background: rgba(0,0,0,0.2) !important;
+    border-radius: 12px !important;
+    padding: 14px 24px !important;
+    color: white !important;
+    text-align: center !important;
+    border: 1px solid rgba(255,255,255,0.2) !important;
+}
+
+.cdh-cta-info-item .label {
+    font-size: 11px !important;
+    opacity: 0.9 !important;
+    text-transform: uppercase !important;
+    margin-bottom: 4px !important;
+}
+
+.cdh-cta-info-item .value {
+    font-family: 'Outfit', sans-serif !important;
+    font-size: 1rem !important;
+    font-weight: 700 !important;
+}
+
+.cdh-cta-btn-dark {
+    display: inline-block !important;
+    background: #0a0a0f !important;
+    color: #ff6b35 !important;
+    padding: 16px 40px !important;
+    border-radius: 60px !important;
+    font-size: 1.1rem !important;
+    font-weight: 700 !important;
+    text-decoration: none !important;
+    box-shadow: 0 8px 30px rgba(0,0,0,0.3) !important;
+    position: relative !important;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    .cdh-info-grid {
+        grid-template-columns: repeat(2, 1fr) !important;
+    }
+    .cdh-cta-info-row {
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    .cdh-cta-info-item {
+        width: 100% !important;
+        max-width: 280px !important;
+    }
+}
+</style>
+
+<!-- HERO -->
+<section class="cdh-hero">
+    <div class="cdh-hero-content">
+        <h1>Master <span>Multi-Cloud + DevOps</span><br>with AI Skills</h1>
+        <p>Join our comprehensive Multi-Cloud + DevOps with AI Skills program. Learn AWS, Azure, GCP, Docker, Kubernetes, CI/CD, and AI-powered automation from industry experts.</p><p class="size-16">{{PRICING}}</p>
+        
+        <div class="cdh-info-grid">
+            <div class="cdh-info-card">
+                <div class="label" style="background-color: rgb(53, 53, 53);">Start Date</div>
+                <div class="value">Start Today&nbsp; &nbsp; or&nbsp; &nbsp; &nbsp; &nbsp; NEVER<span style="font-size: 1.1rem; font-weight: 300;">&nbsp;</span></div>
+            </div>
+            <div class="cdh-info-card">
+                <div class="label" style="background-color: rgb(53, 53, 53);">Mon to Friday</div>
+                <div class="value">8AM to 9:30AM IST on Zoom</div>
+            </div>
+            <div class="cdh-info-card">
+                <div class="label" style="background-color: rgb(53, 53, 53);">Duration</div>
+                <div class="value">55 Live session in 2.5 Months</div>
+            </div>
+            <div class="cdh-info-card">
+                <div class="label" style="background-color: rgb(53, 53, 53);">Access</div>
+                <div class="value">1000 Days PPT &amp; Recording&nbsp;</div>
+            </div>
+        </div>
+        
+        <span></span>
+    <grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars></div>
+</section>
+
+<!-- FEATURES -->
+<section class="cdh-features">
+    <div class="cdh-section-header">
+        <h2 class="cdh-section-title"><br></h2><span class="cdh-section-tag">✨ Why Choose Us</span>
+        <h2 class="cdh-section-title">Program Highlights</h2>
+        <p class="cdh-section-subtitle"><br></p>
+    </div>
+    
+    <div class="cdh-features-grid">
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">☁️</div>
+            <h3>Multi-Cloud Training</h3>
+            <p>Master AWS, Azure &amp; GCP with hands-on projects and real-world scenarios.</p>
+        </div>
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">🤖</div>
+            <h3>AI-Powered DevOps</h3>
+            <p>Learn to integrate AI tools for smarter automation and workflows.</p>
+        </div>
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">💼</div>
+            <h3>Job Placement Support</h3>
+            <p>Resume building, mock interviews, and career guidance included.</p>
+        </div>
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">🎯</div>
+            <h3>Live MNC Projects</h3>
+            <p>Work on real industry projects to build your portfolio.</p>
+        </div>
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">👨‍🏫</div>
+            <h3>Expert Mentorship</h3>
+            <p>Learn from 15+ years of experienced industry professionals.</p>
+        </div>
+        <div class="cdh-feature-card">
+            <div class="cdh-feature-icon">🔄</div>
+            <h3>1000 Days Access</h3>
+            <p>Lifetime-like access to all recordings and resources.</p>
+        </div>
+    </div>
+</section>
+
+<!-- CURRICULUM -->
+<section class="cdh-curriculum">
+    <div class="cdh-section-header">
+        <span class="cdh-section-tag">📚 Comprehensive Syllabus</span>
+        <h2 class="cdh-section-title">What You'll Learn</h2>
+    </div>
+    
+    <div class="cdh-curriculum-grid">
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">01</div>
+            <div><h4>Multi-Cloud Fundamentals</h4><p>AWS, Azure, GCP basics</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">02</div>
+            <div><h4>Linux Administration</h4><p>Essential Linux for DevOps</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">03</div>
+            <div><h4>AWS Deep Dive</h4><p>EC2, S3, VPC, IAM, Lambda</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">04</div>
+            <div><h4>Git &amp; CI/CD</h4><p>Git, GitHub, Jenkins</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">05</div>
+            <div><h4>Docker &amp; Kubernetes</h4><p>Containerization &amp; orchestration</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">06</div>
+            <div><h4>Ansible &amp; Terraform</h4><p>Infrastructure as Code</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">07</div>
+            <div><h4>Monitoring</h4><p>Prometheus, Grafana, Helm</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">08</div>
+            <div><h4>Scripting</h4><p>Bash &amp; Python automation</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">09</div>
+            <div><h4>AI &amp; DevOps</h4><p>AI-powered automation tools</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">10</div>
+            <div><h4>Live Projects</h4><p>Real-world MNC projects</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">11</div>
+            <div><h4>Interview Prep</h4><p>Mock interviews &amp; resume</p></div>
+        </div>
+        <div class="cdh-curriculum-card">
+            <div class="cdh-curriculum-num">12</div>
+            <div><h4>Placement Support</h4><p>Career guidance &amp; jobs</p></div>
+        </div>
+    </div>
+</section>
+
+<!-- FINAL CTA -->
+<section class="cdh-final-cta">
+    <h2>Ready to Transform Your Career?</h2><div>   Join thousands of successful students who achieved 3X salary hike</div>
+    <span></span>
+<grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars></section>
+</div>
+</div>
+				<grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars></div>
+			<grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars></div>
+		</div>
+	</div>
+</div>
+
+</div>
+				<grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars><grammarly-extension-vbars data-grammarly-shadow-root="true" class="dnXmp" style="display: contents; --rem: 16;"></grammarly-extension-vbars></div>
+			</div>
+		</div>
+	</div>
+</div>
+
